@@ -68,7 +68,7 @@ disse-me que eu não tardaria a pedir a Deus pela tua alma. Eu já não posso ch
 peço a Deus é que me leve também. Se não morrer, endoideço. Perdoa-me, José, e pede a Deus que me leve
 depressa para ao pé de ti.
 
-                                                                                Marta.
+   Marta.
 
 Não é preciso ser a gente extraordinariamente romântica para interessar-se, averiguar, querer notícias das
 duas pessoas que têm nestas linhas uma história qualquer, mais ou menos vulgar. Ocorreu-me logo que o estudante,
@@ -200,7 +200,7 @@ Como a gente, sem querer, mostra numa ideia a sua certidão de idade e uma relí
 
 Oh! os bigodes tingem-se; mas as frases – madeixas do espírito – são refractárias ao rejuvenescimento dos vernizes.
 
-#                                                          I
+#  I
 
 Marta era filha de um lavrador mediano que tinha em Pernambuco um irmão rico de quem dizia o diabo.
 
@@ -472,7 +472,7 @@ pontos p'ra remediar. Dê cá as calças, e não se aflija...
 
  O pedreiro respondeu-lhe porcamente e de modo tão trivial, que o outro lhe replicou?
 
- –Vá você!
+ – Vá você!
 
  E meteu-se em casa como quem receava contra-réplica menos suja e mais dura.
 
