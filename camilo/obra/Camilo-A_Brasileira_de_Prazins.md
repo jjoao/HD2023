@@ -9,6 +9,9 @@ structure:
   - Conclusão
   - PS
 revision: Ricardo Guimarães
+problemas: 
+ - algumas notas de rodapé
+ - frases estranhas terminadas com "?" (seria ":" ?)
 ---
 
 # INTRODUÇÃO
@@ -200,7 +203,7 @@ Como a gente, sem querer, mostra numa ideia a sua certidão de idade e uma relí
 
 Oh! os bigodes tingem-se; mas as frases – madeixas do espírito – são refractárias ao rejuvenescimento dos vernizes.
 
-#  I
+# I
 
 Marta era filha de um lavrador mediano que tinha em Pernambuco um irmão rico de quem dizia o diabo.
 
@@ -337,7 +340,7 @@ amam nem cumpram assim. Fazem o dote económico, comezinho à esposa. Compram um
 condicionalmente. Se, extinto o comprador, a máquina, não deteriorada, tiver pretendente, o substituto que a
 compre. O defunto prefere que a sua viúva, adelgaçada e espiritualizada por jejuns, lhe converse com a alma.
 
-#                                                         II
+# II
 
 Por esses dias chegou carta de Pernambuco, incluindo ordem, primeira via, 48$000 réis, dez moedas de
 ouro. Feliciano mandava 12$000 réis para as arrecadas da sobrinha, e o resto ao irmão. Dizia-lhe que estava a
@@ -1038,7 +1041,7 @@ volta da meia-noite, Adolfo e Honorata, num passo miúdo, com uma ansiedade, mis
 chegaram à Ponte de Brito. Ele ajudou-a a sentar-se na sela; cavalgou, disse aos dois arneiros o seu destino, e
 partiram a trote largo.
 
-#                                                          V
+# V
 
 Seis anos depois, em 1845, quando o Zeferino das Lamelas andava em roda-viva de Barrimau para
 Quadros, o Cerveira não tinha alterado sensivelmente os seus hábitos. Estava muito gordo, saúde de ferro – um
@@ -1173,7 +1176,7 @@ aquilo não era bonito. Pois agora, padre Rocha, hei-de dizer-lhe?
  O Cerveira começava a gaguejar, a cambalear, e entornava o cálice. O padre
 despediu-se.
 
-#                                                          VI
+# VI
 
  Na residência do abade Marcos Rebelo, em São Gens de Calvos, havia uma sala com alcova e janelas sobre
 uma horta arborizada. As pereiras, macieiras e abrunheiros principiavam a florir. Era no começo de Abril. Ali,
@@ -1397,7 +1400,7 @@ Nunes, esgazeando os olhos, foi apalpar o embrulho, e muito baixinho?
 
 O outro arregalou os olhos e deitou a língua de fora quanto lhe foi possível. Nem parecia um rei!
 
-#                                                        VII
+# VII
 
 Às sete da noite, a soirée do monarca de Calvos compunha-se do visconde Nunes, seu secretário privado e
 brigadeiro de infantaria, do abade capelão-mor de el-rei, de dois reitores, cónegos despachados, e o ex-sargento-mor
@@ -1640,7 +1643,7 @@ E. afastando-se do caseiro, ia dizendo consigo?
 – Que tal está o labroste! Um homem vem de falar com el-rei, e topa com uma cavalgadura destas! Canalha
 ordinária!
 
-#                                                        VIII
+# VIII
 
 Quando Zeferino entregou a carta com um gesto soberbo da sua intervenção entre o fidalgo e o rei, o
 Cerveira olhou para o sobrescrito com estranheza, e disse que a carta não era para ele; e lia?
@@ -1858,7 +1861,7 @@ sensibilizada.
 
  – É o que eu vou saber.
 
-#                                                        IX
+# IX
 
 Naquele tempo (1845), no Porto, Rua de S. Sebastião, nº 1, morava o padre Luís de Sousa Couto3,
 paleógrado da Misericórdia. Representava sessenta e tantos anos, uma nutrição doentia, pesado, com os pés túrgidos
@@ -2142,7 +2145,7 @@ sem vintém.
 
 – O meu dever é seguir a sorte de el-rei! Onde ele morrer, morro eu!
 
-#                                                         X
+# X
 
 O Cerveira Lobo saira, com o Zeferino, para Braga na sexta-feira de manhã. Estariam aqui até à madrugada
 de sábado, e partiriam então para a Póvoa de Lanhoso com os três contos de reis, repartidos em libras pelas
@@ -2567,7 +2570,7 @@ como eu e lençóis lavados na cama.
 O Nunes e o Veríssimo foram juntos até perto de Braga. Aí, o de Calvos seguiu para casa, e o outro no
 sábado gordo partiu para a Póvoa de Lanhoso.
 
-#                                                         XI
+# XI
 
 O Torcato, antes de entrar em casa, foi à residência. Ia misterioso, circunvagava uns olhares cautelosos: –
 se ninguém o ouviria? – perguntava ao abade Mairos.
@@ -2910,7 +2913,7 @@ estendeu o braço direito, e com o dedo indicador em riste, exclamou?
 Foi assim que se inaugurou a corte de D. Miguel I em São Gens de Calvos, segunda-feira de Entrudo de
 1845, às 3 horas da tarde.
 
-#                                                        XII
+# XII
 
 Depois, bem sabem, senhores, como aquele padre Rocha despenhou abruptamente o desfecho da farsa,
 cuidando que vingava a moral e punia com degredo o celerado que infamava o sacratíssimo nome de el-rei D.
@@ -3079,7 +3082,7 @@ Director os nossos mais sentidos pêsames pela desgraça que acaba de o ferir im
 
 Veríssimo e Nunes podem ainda viver, porque eram robustos de corpo e de alma.
 
-#                                                       XIII
+# XIII
 
 O Zeferino deixou o Cerveira Lobo em Quadros, com os três contos de réis, foi para as Lamelas, e entrou
 de noite, para que o não vissem. Ele tinha-se gabado aos vizinhos de que estava despachado sargento-mor e seu pai
@@ -3186,8 +3189,8 @@ mártires do amor.
 Depois, levantou-se, limpou as faces à manga da camisa, pegou da esquadria e continuou a trabalhar,
 assobiando a música triste de uma cantiga desse tempo?
 
->                                 Ó mar, se queres,
->                                 Tem dó de mim.
+> Ó mar, se queres,
+> Tem dó de mim.
 
 Estes assobios eram o silvo da serpente da vingança; mas o seu rancor não punha a pontaria em Marta. Se
 deixava de cinzelar a pedra, e fitava os olhos extáticos num imenso vácuo, via passar lucilante a imagem da
@@ -3266,8 +3269,8 @@ empresas mais difíceis.
 Marta recobrava alegres esperanças, e o Zeferino das Lamelas digeria a sua dor, assobiando a música da
 melancólica balada?
 
->                                 Ó mar, se queres,
->                                 Tem dó de mim.
+> Ó mar, se queres,
+> Tem dó de mim.
 
 Para seu desafogo, ia a miúdo a Quadros saber quando chegaria o Sr. D. Miguel. O Cerveira estava
 relacionado com os setembristas. Formara-se a junção dos dois partidos hostis aos Cabrais, aproximados pelas
@@ -3278,7 +3281,7 @@ Ordem de S. Miguel da Ala, a casa do João de Albuquerque, da Ínsua, que repres
 Grão- Mestrado. O Zeferino sentia momentos de júbilo de tigre que se agacha a medir o salto à presa. Tinha um riso
 que era um ringir de dentes. Parecia-lhe que estava a mastigar os fígados do José Dias.
 
-#                                                        XIV
+# XIV
 
 Em Março daquele ano, 1846, os setembristas de Braga fomentaram os motins populares do concelho de
 Lanhoso. Na Inglaterra, na câmara dos comuns, lorde Bentinck explicou tragicamente, em frases pomposas, a
@@ -3357,7 +3360,7 @@ cónego Monte Alverne.
 
 7Carta   dirigida ao cavalheiro José Hume. Versão de António Pereira dos Reis, 1847, pág. 99.
 
-  Neste meio-tempo, chegou da América o Feliciano Rodrigues Prazins, tio de Marta. Demorou-se poucos
+Neste meio-tempo, chegou da América o Feliciano Rodrigues Prazins, tio de Marta. Demorou-se poucos
 dias. Ganhara medo que o roubassem as guerrilhas. Foi para o Porto pôr em segurança as suas letras e voltou quando
 a queda dos Cabrais garantia o sossego dos capitalistas. Na volta a Prazins, olhou mais atentamente para a sobrinha,
 deu-me alguns cordões, e disse ao irmão que não se lhe dava de casar com ela. O Simeão afirmou logo com um
@@ -3521,7 +3524,7 @@ dizia à filha: , observava-lhe com azedumes?
 
  – Deixe-a chorar, deixe-a chorar! – E voltando-se para a uma: – A estupidez é cruel!
 
-#                                                        XV
+# XV
 
  O Simeão de Prazins tinha sido antigamente regedor um ano; depois, caído o ministério e o governador
 civil que o nomeara, voltou ao poder o Joaquim de Vilalva, cartista puritano, com a restauração da Carta. Duas
@@ -3580,7 +3583,7 @@ de Amarante.
 8Era o meu actual e prezado amigo Augusto Soares de Azevedo Barbosa de Pinho Leal, autor do
 Portugal Antigo e Moderno.
 
-  Pinho Leal inventara o ataque dos eabralistas para salvar-se a si e aos outros da carniçaria inevitável;
+Pinho Leal inventara o ataque dos eabralistas para salvar-se a si e aos outros da carniçaria inevitável;
 porque, ao romper a manhã do dia seguinte, entraram em Guimarães seiscentos soldados do Casal ainda
 embriagados da sangueira de Braga. Reproduzem-se textualmente no seu estilo militarmente pitoresco os
 veracíssimos esclarecimentos de Pinho Leal: ...A besta do escocês continuava na sua pânria sem se importar da
@@ -3651,7 +3654,7 @@ cobriram. Tinha os dedos aduncos, inflexíveis, e uma das mãos afincada como ga
 
 11Carta   citada.
 
-  O Zeferino disse que o seu tenente-coronel devia trazer um cinturão com dinheiro em ouro; mas ninguém
+O Zeferino disse que o seu tenente-coronel devia trazer um cinturão com dinheiro em ouro; mas ninguém
 ousou desabotoar a farda do morto defendido pelo sagrado terror da morte. Apenas uma das sentinelas intanguidas
 de frio, votou que se bebesse o resto da genebra. Assim que foi dia claro, o Zeferino desceu à igreja próxima, a
 Margaride, avisar o pároco que tinha morrido na estrada um fidalgo do exército do Sr. D. Miguel. O padre,
@@ -4784,7 +4787,7 @@ missionário, saiu fora, e disse-lhes com um racionalismo brutal?
 
  – Ah grandes coiras!
 
-#                                                   CONCLUSÃO
+# CONCLUSÃO
 
 Marta regressou com D. Teresa, alguns dias depois. O brasileiro conveio no tratamento hidropático da
 esposa; e a compadecida irmã do vigário ofereceu-se como enfermeira da pobre senhora que se abraçava nela com
@@ -4797,7 +4800,7 @@ não se restaura sob a impressão do amor maternal, que só actua nas organizaç
 podia crer que Marta estivesse confirmadamente louca, posto que nas suas conversações em que, raras vezes, se
 interessava, disparatasse, afirmando que via a alma de José Alves, como quem conta um caso trivial.
 
-  Quando lhe mostraram a filha recém-nascida, contemplou-a alguns segundos; mas nem balbuciou uma
+Quando lhe mostraram a filha recém-nascida, contemplou-a alguns segundos; mas nem balbuciou uma
 palavra carinhosa, nem fez gesto algum de contentamento. A amiga dizia-lhe coisas muito meigas da filhinha, a ver
 se lhe espertava o coração. Punha-lha nos braços, dava-lha a beijar. Marta cedia com tristeza e constrangimento.
 
@@ -4886,7 +4889,7 @@ através ou pouco menos das suas catorze quintas. Com a frugalidade, com o exerc
 viverá ainda muito tempo, porque o velho Alexandre Dumas disse que os egoístas e os papagaios viviam cento e
 cinquenta anos.
 
-#                                                        P. S.
+# P. S.
 
  Com os subsídios ministrados pelo cura de Caldelas compus esta narrativa, espraiando-me por acessórios
 do duvidoso bom senso, cuja responsabilidade declino dos ombros daquele discreto sacerdote. Tudo que neste livro

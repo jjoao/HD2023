@@ -3,15 +3,15 @@ title: A filha do doutor negro
 author: Camilo Castelo Branco
 date: 1864
 type: desconhecido
-structure: 
-   - Prefácio 
-   - Capítulos (1..24)
-   - Conclusão
+structure:
+ - Prefácio
+ - Capítulos (1..24)
+ - Conclusão
 revision: Ricardo Guimarães
 ---
 
-##    Prefácio
-    
+# Prefácio
+
 Eu era estudante na Academia do Porto em 1845.
 
 Em uma das férias pequenas do ano, indo eu despedir-me de um cavalheiro, meu patrício, de volta para o Porto, disse-me ele:
@@ -62,7 +62,7 @@ Avisei do sucedido o meu amigo, e ele reiterou a promessa de me entreter uma tar
 
 Fiquei eu imaginando o que viria a ser a história desta mulher. Já naquele tempo me andava o cérebro, o coração, ou o espírito - não sei bem o que era - a fermentar a massa de volumes que saíram depois mal levedados, alguns azedos, outros insípidos, e Deus sabe se outros hão-de sair piores na substância e no feitio. O certo é que eu, em 1845, há quase vinte anos, bem que nem sequer entressonhasse o céu e o inferno de escritor, já me empenhava em tecer enredos de romances, enquanto os meus lentes de química e botânica se desvelavam em me fazer compreender que há ácidos e óxidos, e que há vegetais monocotiledóneos, e vegetais andróginos: cousas de que eu sinceramente não duvido nem sei nada.
 
-O entrecho de novela, que eu fantasiava por conta da maltrapida Albertina, era injurioso à pobre mulher. Queria a minha derrancada imaginação que ela tivesse descido as escaleiras de unia vida precipitosa até se atolar no esterquilínio donde saíra para se assentar nas lájeas das ruas, estendendo a mão à caridade dos transeuntes. Ora, como já então estavam escritos aqueles muito sabidos versos de Victor Hugo, que dizem: 
+O entrecho de novela, que eu fantasiava por conta da maltrapida Albertina, era injurioso à pobre mulher. Queria a minha derrancada imaginação que ela tivesse descido as escaleiras de unia vida precipitosa até se atolar no esterquilínio donde saíra para se assentar nas lájeas das ruas, estendendo a mão à caridade dos transeuntes. Ora, como já então estavam escritos aqueles muito sabidos versos de Victor Hugo, que dizem:
 
 | Oh! n'insultez jamais une femme qui tombe!
 
@@ -121,13 +121,13 @@ Porto - 1863
 
 
 
-##    Capítulo Primeiro
-    
+# Capítulo Primeiro
+
 Em 1810, António da Silveira, cadete de cavalaria de Bragança, chegou ao Porto com o seu regimento. Confluía para aqui a força armada do Norte, agitada pelo refervente patriotismo da junta governativa, espertada serodiamente da sua pávida, senão estúpida, inércia. Um romancista de espírito eminente e grandes dotes de investigação, o sr. Arnaldo Gama, em dois excelentes romances, tem esmiuçado os mais importantes quadros da invasão dos franceses em Portugal. Isto me forra à canseira de imitar os meus colegas peninsulares que, antes de dizerem quem é o homem que chega, descrevem a noite, se ele chega de noite, o terreno que pisa, as ruas que percorre, as sensações que causa aos encontradiços, o que ele pensa do céu e da terra, e o mais que nunca homem se lembrou de pensar, até ao fim de uns tantos capítulos, que se tornam admiráveis pela paciência de quem os escreve.
 
 António da Silveira era então mancebo de vinte anos. Simpatizava com Napoleão, que ele de si para si denominava o «apóstolo involuntário da emancipação dos povos», enquanto o seu coronel, arengador de oitiva, atassalhava sempre Bonaparte, nas suas alocuções, com os flageladores epítetos de «bárbaro! tigre da Córsega! demónio da meia noite! e besta do Apocalipse!»
 Silveira era ainda parente do general daquele apelido, personagem
-admiravelmente boçal e intrépido, capaz de imitar os Codros e os Cúrcios,  e os conhecesse; português à antiga, e estou quase em dizer - o último dos portugueses que se criaram nas agras de Trás-os-Montes. Fora o general, inflamado em amor da pátria, que tirara pelas orelhas o sobrinho da molidão ociosa das suas meditações e o levara a jurar bandeiras. António lia indolentemente o seu Horácio procul a negotiis, ou o seu Virgílio, sub tegmine, como o pegureiro Títiro, enquanto o solo pátrio estremecia batido pelo tropel das hordas conquistadoras. Educado pelos prosadores e poetas do Lácio, o moço, solitário pensador das fragosas montanhas penduradas sobre o rio Córrego, amava a liberdade à romana, a liberdade dos Gracos e dos Catões, por amor da qual uns cidadãos, se arrancavam as entranhas como Bruto, e outros ofereciam o pescoço à espada dos pretorianos como Cícero, e as próprias mulheres se cortavam o seio com o punhal como Caecina Paetus.
+admiravelmente boçal e intrépido, capaz de imitar os Codros e os Cúrcios, e os conhecesse; português à antiga, e estou quase em dizer - o último dos portugueses que se criaram nas agras de Trás-os-Montes. Fora o general, inflamado em amor da pátria, que tirara pelas orelhas o sobrinho da molidão ociosa das suas meditações e o levara a jurar bandeiras. António lia indolentemente o seu Horácio procul a negotiis, ou o seu Virgílio, sub tegmine, como o pegureiro Títiro, enquanto o solo pátrio estremecia batido pelo tropel das hordas conquistadoras. Educado pelos prosadores e poetas do Lácio, o moço, solitário pensador das fragosas montanhas penduradas sobre o rio Córrego, amava a liberdade à romana, a liberdade dos Gracos e dos Catões, por amor da qual uns cidadãos, se arrancavam as entranhas como Bruto, e outros ofereciam o pescoço à espada dos pretorianos como Cícero, e as próprias mulheres se cortavam o seio com o punhal como Caecina Paetus.
 
 Daqui procedia o seu afecto a Napoleão, como filho bastardo da revolução francesa, e o seu amor à soledade dos seus pardieiros solarengos, afogados de serranias.
 
@@ -204,8 +204,8 @@ Tomemos o fio da história.
 
 
 
-##    Capítulo Segundo
-    
+# Capítulo Segundo
+
 António da Silveira, na véspera da salda do seu regimento para as fronteiras, ameaçadas de franceses, achou-se a sós com Albertina. Até àquela hora, não ousara dizer-lhe a palavra mais difícil de exprimir, quando é verdadeira. Os que mais amam, antes de o dizerem à pessoa que mais convém que o saiba, empalidecem, dessecam-se, e são capazes de irem a uma héctica. As artes da língua latina todas conjugam o verbo amar por inteiro: os alunos saem das escolas com os ouvidos impregnados, digamo-lo assim, do mais vital e usual verbo de todas as línguas sabidas e ignoradas dos poliglotas.
 
 Pois, assim mesmo, com toda esta profusão de amar no infinito, de amo no presente, de amei no pretérito, e de amarei no futuro, acontece que a memória do verbo por excelência se enoita e cerra logo que o mais solerte gramático se acha como que afrontado pela mulher para quem ele parece que pontualmente aprendera a conjugação do verbo amar! Isto é admirável; e mais admirativo ainda no cadete de cavalaria de Bragança, onde ele, com um ano de praça - ou tarimba como lá dizem - e convivência de camaradas vezados à alta barganteria do galanteio, devia atar despejado, quero dizer emancipado do pejo que purpureia as faces ao amador bisonho.
@@ -214,7 +214,7 @@ Amava do imo da alma; é o que era; amava pela primeira vez; é o que nunca tinh
 
 António da Silveira, em oito sílabas, definiu-me o seu modo de ser naquele tempo: EU ERA UMA MENINA - disse-me ele. Isto é o mais que um homem inocente pode dizer de si, quando a menina é inocente, entendamo-nos; porque, há meninas que, a respeito da pureza do seu espírito, podem dizer: «Eu era como um cadete dos mais casquilhos de há cinquenta anos.» Há de tudo; e desta variedade e desordem é que se faz a ordem e a graça do universo.
 
-Albertina não estava no caso da menina com quem António da Silveira se comparava, nem na plana da outra, que quisesse comparar-se a um donzel de moral  desbaratada.
+Albertina não estava no caso da menina com quem António da Silveira se comparava, nem na plana da outra, que quisesse comparar-se a um donzel de moral desbaratada.
 
 O amor não era novidade para ela. Se o fora, devia de tingir-se-lhe o rosto, quando o hóspede lhe disse:
 
@@ -335,8 +335,8 @@ Chegou ao Porto, onde a inércia é um estigma, e achou de pronto trabalho e pã
 
 
 
-##    Capítulo Terceiro
-    
+# Capítulo Terceiro
+
 Entrou João Crisóstomo ao escritório de alguns advogados e escrivães, alegando que tinha sofrível forma de letra, e, por pequeno salário, copiaria papéis; o último onde pediu trabalho, e teve aceitação, foi o do doutor Negro, cuja aspereza de génio afugentava os amanuenses.
 
 João Crisóstomo, logo na primeira semana, pagou com as orelhas uma falta de ortografia, repetida depois do aviso. O doutor era escravo da ortografia etimológica, e o moço tendia racionalmente para a simplicidade que o sr. Castilho, cinquenta anos depois, aventou com grande dispêndio de filosofia e paciência inútil. Já as orelhas do pobre João foram obscuras mártires deste ramo de civilização do alfabeto!
@@ -466,8 +466,8 @@ Perguntei-lhe:
 
 
 
-##    Capítulo Quarto
-    
+# Capítulo Quarto
+
 António da Silveira apresentou à prelada do convento dos Remédios, em Braga, a carta do doutor Francisco Simões de Alpedrinha. Reunidas em capitulo as venerabundas nonas, notáveis por sua velhice e experiência de astúcias do amor, deliberaram que se consultasse o doutor pelo correio antes de se dar o exsequatur à carta, que poderia, sem milagre, ser cavilosa.
 
 Esperou, portanto, o magnânimo alferes que viesse pela posta o segundo aviso, como para ordem de saque monetário; e, a dizer verdade, que tesouro demanda aí maiores cautelas que a virtude de uma menina? Bem o entenderam as previstas religiosas de Nossa Senhora dos Remédios.
@@ -582,7 +582,7 @@ António da Silveira, violentando-se, tornou:
 
 -- No entanto - voltou António da Silveira -, se a srª D. Albertina mudar alguma vez de sentimentos, lembra-se de mim, que eu irei onde as suas ordens me mandarem. Daqui volto à minha aldeia com alguns meses de licença; e, provavelmente, lá ficarei, se conseguir a minha desligação do exército.
 
-Albertina embebeu as lágrimas no lenço, e murmurou soluçando: 
+Albertina embebeu as lágrimas no lenço, e murmurou soluçando:
 -- Parece-me que nos não veremos mais...
 
 Silveira deteve-se a responder, abalado pelas lágrimas inesperadas. Quando ia a balbuciar resposta, Albertina saiu da grade.
@@ -597,8 +597,8 @@ Queria dizer o mesmo, ao que me parece e penso da linguagem figurativa dos que a
 
 
 
-##    Capítulo Quinto
-    
+# Capítulo Quinto
+
 António da Silveira procurou o doutor Negro, e disse-lhe:
 
 -- A srª D. Albertina é um coração extraordinário: espera triunfar pela morte, e contra estas vitórias não há forças humanas.
@@ -643,7 +643,7 @@ Poucos dias depois, algumas pessoas, obrigadas ao doutor Negro, planearam, a ocu
 
 O encarregado de propor o negócio ao preso era um pai de meninas galantes, e bem casadas, o qual no prefácio que fez ao oferecer-se para semelhante missão, disse isto, entre outras coisas comprovativas da sua esperteza:
 
--- Duas de minhas filhas tiveram tendência para petimetres que tafulavam miraculosamente, e vestiam de bom lemiste. Um tinha o avô a bater sola, e o pai era  frade borra, O da outra era mestre de dança e tocava flautim numa música de capela. Vejam V. Sª a que está sujeito um homem de bem que tem duas filhas sem juízo! Cuidam, porém, V. Sª que eu tranquei as janelas, ou preveni as justiças contra a anunciada tentativa de rapto? Não, senhores. A grande habilidade, neste covil de ladrões, chamado mundo, conforme o dizer de Tomé Pinheiro da Veiga, na dedicatória da sua Arte de furtar, a grande habilidade, repito, não é ganhar: é saber perder a tempo.
+-- Duas de minhas filhas tiveram tendência para petimetres que tafulavam miraculosamente, e vestiam de bom lemiste. Um tinha o avô a bater sola, e o pai era frade borra, O da outra era mestre de dança e tocava flautim numa música de capela. Vejam V. Sª a que está sujeito um homem de bem que tem duas filhas sem juízo! Cuidam, porém, V. Sª que eu tranquei as janelas, ou preveni as justiças contra a anunciada tentativa de rapto? Não, senhores. A grande habilidade, neste covil de ladrões, chamado mundo, conforme o dizer de Tomé Pinheiro da Veiga, na dedicatória da sua Arte de furtar, a grande habilidade, repito, não é ganhar: é saber perder a tempo.
 
 Que fiz eu, pois? V. S.as , vão ficar espantados! Perdi o amor a quatro mil cruzados, que reparti pelos dois mariolas. Um foi receber os seus dois a Madrid; e o outro a quota parte a Barcelona, onde eu tinha correspondente. Assim que eles partiram, chamei as raparigas, e disse-lhes, textuais palavras, o seguinte: «Meninas antes de ontem cada urna de vossas mercês tinha doze mil cruzados de dote para se casarem com pessoas da minha eleição. Ora, ontem, como eu soubesse que vossas mercês se decidiram a amar dois sevandijas, um que vivia do convento onde o pai frade lhe arrebanhava o bocado, e outro que vivia de ensinar o minuete e de flautear nas igrejas, tomei a meu encargo paternal livrar a vossas mercês destes canalhas, mediante a quantia de quatro mil cruzados, com que eles se acomodaram e desistiram das suas pessoas de vossas mercês, indo-se em boa paz e muito contentes da veniaga por esse mundo além. Saibam agora as minhas filhas que o dote de cada uma fica sendo de dez mil cruzados, porque é justo que paguem da sua algibeira o muito que lucraram com verem-se livres de tais patifes.
 
@@ -735,11 +735,11 @@ Destes houve tal que também perdeu a cor, abalado pelo júbilo de ser desnecess
 
 
 
-##    Capítulo Sexto
-    
+# Capítulo Sexto
+
 Excepto António da Silveira, nenhum alvitreiro de recursos pensava já no infortúnio do doutor Negro, depois da severa lição imposta ao agente que se fora à luta com o peito tresdobrado de aço, oes triplex, a eloquência própria, a eloquência de Cícero, e a eloquência das reais efígies das peças.
 
-António da Silveira, porém, sabedor do infausto êxito da mal aconselhada  empresa, lembrou que fossem a Vairão, e trouxessem o pai do preso à cadeia, e de casa do doutor levassem ao convento a mãe da reclusa, e esperassem muito, assim da autoridade do velho, como das lágrimas da consternada senhora. O lavrador, solicitado para ir à Relação, respondeu que não tinha tal filho, e aplaudiu as justas leis que lho tinham condenado, visto que ele roubara a filha do seu protector. A mãe de Albertina pediu licença ao marido para ir ao convento, e o doutor respondeu que não tinha filha nenhuma, nem consentia que sua mulher a tivesse.
+António da Silveira, porém, sabedor do infausto êxito da mal aconselhada empresa, lembrou que fossem a Vairão, e trouxessem o pai do preso à cadeia, e de casa do doutor levassem ao convento a mãe da reclusa, e esperassem muito, assim da autoridade do velho, como das lágrimas da consternada senhora. O lavrador, solicitado para ir à Relação, respondeu que não tinha tal filho, e aplaudiu as justas leis que lho tinham condenado, visto que ele roubara a filha do seu protector. A mãe de Albertina pediu licença ao marido para ir ao convento, e o doutor respondeu que não tinha filha nenhuma, nem consentia que sua mulher a tivesse.
 
 No homem rústico de Vairão a crueza procedia da má índole; da resistência do doutor havemos de inferir que a muita dor o ia dementando. Vieram a igualar-se assim dois ânimos, entre os quais se interpunha a barreira enorme da ignorância: é certo que as paixões dão resultados uniformes nas almas de todo o ponto dissemelhantes.
 
@@ -833,8 +833,8 @@ Achou-o então necessário: invocou-o. Se do céu lhe falassem, mandá-lo-iam qu
 
 
 
-##    Capítulo Sétimo
-    
+# Capítulo Sétimo
+
 No penúltimo dia da sentença de João Crisóstomo, o doutor Negro anunciou-se na portaria do convento dos Remédios, e fez saber à prelada que sua filha havia de segui-lo.
 
 A religiosa, ferida do tom brusco do doutor, e até das expressões com que ele denunciava suas desconfianças, e despreciava as falsas virtudes do convento, defendeu a reclusa, e a honra da casa. Irou-se o velho, e perorou como nas audiências, bracejando e ululando com tal volume de voz que todos os ecos do mosteiro gritavam lá por dentro com ele. O mais bravo artigo do libelo era desta sem-razão: «Que a filha vivia alegre: sinal certo de que estava em inteligência com o celerado da cadeia: porquanto, se ela vivesse como ele ordenara, havia de ter cedido ou morrido.» Sobre este tema, o jurisconsulto deu berros que inteiriçaram de glacial terror os corpos já frios de muitas velhinhas do mosteiro.
@@ -962,8 +962,8 @@ Era João Crisóstomo.
 
 
 
- #   Capítulo Oitavo
-    
+# Capítulo Oitavo
+
 Receava o doutor que João Crisóstomo, p4sto em liberdade, no dia seguinte ao da transferência de Albertina para o Alto Minho, tivesse logo aviso em Braga, e lhes fosse no encalço. Com um especioso pretexto na contagem do tempo da sentença, prorrogou-lhe a soltura para oito dias depois. O moço pacientíssimo esperou que se acogulasse a vingança, dizendo: «Por tão pouco, não vale a pena contrariar o prazer do sr. Alpedrinha.»
 Finalmente, à mesma hora em que apresentava ao carcereiro alvará de soltura, recebia João Crisóstomo notícia de ter sido improvisamente arrebatada Albertina do convento.
 
@@ -1156,8 +1156,8 @@ Fizeram-se juízos extravagantes a tal respeito. Porém, Simão de Valadares, co
 
 
 
-##    Capítulo Nono
-    
+# Capítulo Nono
+
 Quinze dias depois, João Crisóstomo estava no Porto, empregado na escrivaninha de um tabelião, que o tivera a seu serviço a maior parte do tempo da cadeia. Que estreitíssima porta a fortuna lhe oferecia! que começos de vida para quem carecia de alguns punhados de ouro! O pobre copista desmaiava naquele trabalho improdutivo além do pão quotidiano: caía-lhe a fronte escaldante sobre o papel, onde às vezes encontrava o refrigério de suas lágrimas derivadas da face.
 
 As cartas que escrevia a Albertina revelavam, apesar dele, a profunda desanimação. Nem ele saberia dizer em que se fundava a esperança de haver dinheiro para a fuga. Algum romance lhe saíra da fantasia aquecida pelo coração. Teria lido alguns em que, nos maiores apertos dos personagens, o dinheiro aparece mais depressa que o engenho dos autores, dinheiro a rodo, quando é necessário. Cuidaria ele que o seu amor, subtilizando-lhe o espírito até ao requinte da indústria, lhe ensinaria o segredo da pedra filosofal. Pobre moço, tu não foste o primeiro, nem serás o último a pensar na conversão das pedras em ouro. Poucos são os amantes nas tuas circunstâncias, que não tenham desejado possuir, condicionalmente, as orelhas de Midas, uma hora pelo menos, com a cláusula de poder, como ele, transformar em ouro os objectos tocados. Enquanto às orelhas, ainda que elas ficassem para todo o sempre como o irritado Apelo lhas dera ao rei da Frigia, isso paciência: todas as orelhas são iguais perante o dinheiro; e toda a mulher, que deveras ama, desculpa o feitio e comprimento das orelhas do homem amado.
@@ -1241,8 +1241,8 @@ Seguia-se o minudencioso diálogo com o «enviado da Providência.»
 
 
 
-##    Capítulo Décimo
-    
+# Capítulo Décimo
+
 Piorava de hora a hora a situação de Albertina em Barbeita.
 
 O morgado começava a desatinar. A lançada do ciúme tinha-lhe chegado à fibra donde está como pendente o órgão do juízo. Dissera ele, no princípio, à mãe da sua hóspeda que, violentada, não aceitaria Albertina. Estes briosos sentimentos iam já declinando em consenso à violência, desde que a misteriosa aparição e fuga do mendigo lhe roubou o sono e as esperanças.
@@ -1341,8 +1341,8 @@ Faz muito bem; acho isso muito acertado, e é boa ocasião de vossemecê me faze
 
 
 
-##    Capítulo Décimo Primeiro
-    
+# Capítulo Décimo Primeiro
+
 Agostinho limpou os óculos, e continuou:
 
 -- Eu tenho desejo de ver uma escritura de compra de uma fazendória, que meu pai, Deus lhe fale na alma, comprou há coisa de vinte e cinco anos. Acho que foi em 1790. A nota onde a escritura foi lavrada está no cartório do tabelião Ferreira. Se o meu amigo, não lhe custando isso, poder trazer-me a nota por um ou dois dias, faz-me muito favor.
@@ -1470,8 +1470,8 @@ Que o irmão ficava senhor da casa, isso era de lei; mas que Albertina se desvan
 
 
 
-##    Capítulo Décimo Segundo
-    
+# Capítulo Décimo Segundo
+
 À meia-noite daquele dia, Albertina espreitou pelo resquício das portas da alcova em que sua mãe dormia, e viu-a sopitada no primeiro sono, à claridade da lamparina.
 
 Escutou o ruído do interior da casa: era completo o silêncio, apenas quebrado pelo pêndulo de um relógio de parede. Puxou a si brandamente as portadas interiores, e espreitou. Entreviu um vulto: devia ser Fernando, que a esperava, segundo soubemos do plano comunicado a João Crisóstomo. De feito, era. Albertina encontrou uma escada de mão, arvorada ao peitoril da janela: desceu com firmeza, sem os saltos de coração, próprios do lance. Era a terceira vez que fugia: as impressões repetidas gastam a sensibilidade.
@@ -1664,8 +1664,8 @@ Silveira amparou-o nos braços com grande esforço, e sentou-o prostrado numa po
 
 
 
- #   Capítulo Décimo Terceiro
-    
+# Capítulo Décimo Terceiro
+
 A tentativa da cura pela religião foi ineficaz. O médico era muito novo, e o doente muito velho. Careciam de unção e gravidade as palavras apostólicas de António da Silveira: faltava-lhe a majestade das cãs e a magnificência impressiva das vestes sacerdotais. Porém, a mais considerável deficiência era a do espírito obcecado do doutor Negro: eram cinquenta e tantos anos de indiferença religiosa, ou, ainda pior, de menospreço filosófico.
 
 Certificam pios escritores e narradores que uma grande catástrofe moral tem bastado a reduzir à fé corações empedernidos pela impiedade. Convenho na veracidade destes admiráveis triunfos de religião; todavia, ouso certificar que há ímpios tão refractários, ou tão entranhadamente ímpios que, assoberbados pelas angústias, inferem delas a confirmação de sua impiedade. Falarem-lhes em religião, quando o ar da vida lhes falta à ânsia do peito, é escalavrarem-lhes a chaga. Da parte deles está o demónio, que é um cerrado argumentador às vezes, como ponderam grandes santos.
@@ -1704,7 +1704,7 @@ Temiam-se de serem importunados para costearem as despesas do enfermo, ou ampara
 
 Já a razão do doutor Negro se ia aclarando o bastante para ver a solidão em que o deixavam os amigos. Quando nisto pensava, vidravam-se-lhe de lágrimas os olhos e, se António da Silveira estava ali, chamava-o para perto, pedia-lhe a mão, e convulsamente lha apertava, dizendo entre soluços:
 
--- Que é dos meus amigos? Que é dos homens a quem eu servi gratuitamente vinte anos? Onde estão uns poucos que me chamavam o salvador das suas fortunas e honras? Acaso, minha mulher pediria esmola a algum? Decerto não, que eu tenho mandado vender as minhas pratas, as jóias que eram de minha mãe, e haviam de ser de minha filha. Amanhã venderei es livros, depois este leito, depois o último farrapo desta casa;  mas não pedirei favor a ninguém, porque, morto eu, não haverá quem o pague.
+-- Que é dos meus amigos? Que é dos homens a quem eu servi gratuitamente vinte anos? Onde estão uns poucos que me chamavam o salvador das suas fortunas e honras? Acaso, minha mulher pediria esmola a algum? Decerto não, que eu tenho mandado vender as minhas pratas, as jóias que eram de minha mãe, e haviam de ser de minha filha. Amanhã venderei es livros, depois este leito, depois o último farrapo desta casa; mas não pedirei favor a ninguém, porque, morto eu, não haverá quem o pague.
 
 -- A que vem aqui a morte? - interrompeu António da Silveira. - Muita vida é o que nós queremos para vermos que amigos tornam depois. É um espectáculo digno de ser visto, e, sem a vida, perde-se o quadro de costumes. Merece o incómodo de viver um caso destes.
 
@@ -1749,8 +1749,8 @@ Encarregamos o nosso bem Silveira de receber no Porto a quantia, e ao mesmo temp
 
 
 
-##    Capítulo Décimo Quarto
-    
+# Capítulo Décimo Quarto
+
 António da Silveira leu ao doutor a carta de Albertina, e a ordem de receber cento e cinquenta moedas para entregar a Agostinho José Chaves.
 
 -- Quem é Agostinho José Chaves?! - perguntou Alpedrinha para saber a quem devia entranhadamente odiar.
@@ -1930,8 +1930,8 @@ O auditório riu-se, e o espanhol cravou os olhos afuzilantes na cara do doutor.
 
 
 
-##    Capítulo Décimo Quinto
-    
+# Capítulo Décimo Quinto
+
 Caetano Alves saiu sucumbido do tribunal. O espanhol ia de cabeça alta, e olhar esconso a um lado e outro como quem estuda a resistência com que tem a lutar num arrojo supremo.
 
 O doutor segredou ao ouvido do juiz, e logo oficiais de justiça saíram em direitura à rua do Bonjardim, devassar nos papéis do preso alguma indiciação.
@@ -2095,8 +2095,8 @@ Depois, saiu com a alma traspassada apesar da consciência que lhe bradava: «Jo
 
 
 
-##    Capítulo Décimo Sexto
-    
+# Capítulo Décimo Sexto
+
 Estava Albertina preparando-se para ir com a família, que a estimava por igual como mestra e como familiar, a passarem um dia no campo, onde se festeja o natalício do pai das educandas. João Crisóstomo esperara sua mulher: e, no entanto, escrevia a Agostinho José Chaves unia segunda carta de agradecimento ao donativo das cento e cinquenta moedas, maravilhando-se do insondável arcano em que se nublava a chave de tão abstruso enigma. Pedia João Crisóstomo ao seu amigo que o elucidasse, explicando-lheo caso de ignorar-se na Póvoa de Varzim quem fosse Agostinho José Chaves!
 
 Dobrava ele a carta, depois de a ter lido à risonha esposa, que vinha de considerar-se formosa no espelho, quando um dos meninos, seus discípulos de francês, lhe entregou uma carta de Portugal.
@@ -2253,8 +2253,8 @@ João Crisóstomo.»
 
 
 
-##    Capítulo Décimo Sétimo
-    
+# Capítulo Décimo Sétimo
+
 Executadas as buscas domiciliárias na quinta da Póvoa de Varzim, e na casa de Vila Nova de Gaia, o corregedor do crime, antes de examinar os papéis encontrados, disse ao seu escrivão que avisasse o doutor Negro.
 
 -- Desgraçado pai! - disse o escrivão.
@@ -2311,7 +2311,7 @@ O doutor levantou-se em vibrações de cólera, e bradou:
 
 -- Que inferno! que inferno! Conspiram todos em matar-me! Que mal fiz eu ao mundo! que mal faço eu a este homem que me tem visto chorar lágrimas de sangue!?
 
--- A mim - disse brandamente António da Silveira - tem-me feito a honra de me escutar, e não repelir os verdes anos que ousam contrapor-se as suas deliberações. A mim, sr. doutor, tem-me dado horas atormentadas, porque eu tenho chorado à cabeceira do seu leito, como raros filhos choram ao lado de um pai moribundo. O mal que me tem feito é levantar aos meus olhos o véu do esqualor de umas chagas que me fazem tédio do mundo, e saudades dos penhascos e da santa rudeza da minha aldeia. Retiro-me, porque não quero ver o resto; não quero ver o doutor Francisco Simões de Alpedrinha, num tribunal, a provar que o marido de sua filha é um infame. Eis aqui porque me retiro, e para sempre, da sua presença. Levo compaixão dos seus infortúnios, ar. doutor; mas sinceramente lhe digo que escassamente posso respeitar o homem que sofre até ao perdimento do coração: estimá-lo não posso. E creia V. Sª que o seu proceder vai alienar todas as simpatias que, porventura, as suas desgraças passadas acarearam. O mundo será pior do que eu mesmo cuido que ele é; mas, seja o que for, o mundo abomina o homem que aceita a odiosa missão de V. Sª. O próprio corregedor lhe mandou lembrar delicadamente os seus deveres de pai. V. Sª parece rejubilar-se da ocasião de arrastar seu genro pelos cabelos de sua filha, e dizer à sociedade: «Escarrem na cara desta mulher, que é esposa daquele ladrão!» O horror deste acto afoga-me a voz na garganta! Ainda bem, meu Deus, que tenho lágrimas para  doutor Negro sentara-se arquejante, a bracejar ansiadíssimo, e a soltar uns gritos inarticulados.
+-- A mim - disse brandamente António da Silveira - tem-me feito a honra de me escutar, e não repelir os verdes anos que ousam contrapor-se as suas deliberações. A mim, sr. doutor, tem-me dado horas atormentadas, porque eu tenho chorado à cabeceira do seu leito, como raros filhos choram ao lado de um pai moribundo. O mal que me tem feito é levantar aos meus olhos o véu do esqualor de umas chagas que me fazem tédio do mundo, e saudades dos penhascos e da santa rudeza da minha aldeia. Retiro-me, porque não quero ver o resto; não quero ver o doutor Francisco Simões de Alpedrinha, num tribunal, a provar que o marido de sua filha é um infame. Eis aqui porque me retiro, e para sempre, da sua presença. Levo compaixão dos seus infortúnios, ar. doutor; mas sinceramente lhe digo que escassamente posso respeitar o homem que sofre até ao perdimento do coração: estimá-lo não posso. E creia V. Sª que o seu proceder vai alienar todas as simpatias que, porventura, as suas desgraças passadas acarearam. O mundo será pior do que eu mesmo cuido que ele é; mas, seja o que for, o mundo abomina o homem que aceita a odiosa missão de V. Sª. O próprio corregedor lhe mandou lembrar delicadamente os seus deveres de pai. V. Sª parece rejubilar-se da ocasião de arrastar seu genro pelos cabelos de sua filha, e dizer à sociedade: «Escarrem na cara desta mulher, que é esposa daquele ladrão!» O horror deste acto afoga-me a voz na garganta! Ainda bem, meu Deus, que tenho lágrimas para doutor Negro sentara-se arquejante, a bracejar ansiadíssimo, e a soltar uns gritos inarticulados.
 
 António da Silveira acrescentou balbuciante:
 
@@ -2345,7 +2345,7 @@ Francisco Simões murmurou:
 
 -- Deus é que tem os seus dias contados! - disse António da Silveira.
 
--- Demito-me de advogado. Morri!... Nunca mais irei aos tribunais! Acabou-se tudo!... Sr. António da Silveira, isto era uma febre... o vasquejar de uma lâmpada... Era a paixão que me emprestava um calor, que me calcinava... É de fogo do Inferno o calor que dão as paixões! Maldito seja quem mo acendeu na alma! Maldito seja!... A minha inteligência estava ainda vigorosa como aos vinte e cinco anos. Eu podia ser rico; mas gastei muito com a educação da amaldiçoada! Rasgava sedas como as filhas dos príncipes! Sonhava desejos, e acordava para os ver realizados, ela, a ingrata, a perdida! Invejavam-na, e pasmavam da minha liberalidade! Eis-me pobre à beira da sepultura!...  O meu orgulho no que deu! Orgulho daquela filha! Mereceu-a um cúmplice de falsi-ficadores! Que destino, que destino!... E, ao cabo de tudo, morrer, não já de saudade dela, mas de vergonha do labéu que o marido lhe pôs! Aqui tem sr. Silveira, uma horrenda catástrofe!... Quem quererá ser pai, contemplando este meu fim de vida, esta agonia obscura, este morrer debaixo de um opróbrio esmagador!... Não fale, não fale! É inconsolável a minha tribulação! Pique, peço-lhe que fique ao meu lado.. Bem vê que nem um só amigo se lembra do homem desamparado dos afagos da fortuna! Esteja por aqui até ao fim, que isto acaba cedo!...
+-- Demito-me de advogado. Morri!... Nunca mais irei aos tribunais! Acabou-se tudo!... Sr. António da Silveira, isto era uma febre... o vasquejar de uma lâmpada... Era a paixão que me emprestava um calor, que me calcinava... É de fogo do Inferno o calor que dão as paixões! Maldito seja quem mo acendeu na alma! Maldito seja!... A minha inteligência estava ainda vigorosa como aos vinte e cinco anos. Eu podia ser rico; mas gastei muito com a educação da amaldiçoada! Rasgava sedas como as filhas dos príncipes! Sonhava desejos, e acordava para os ver realizados, ela, a ingrata, a perdida! Invejavam-na, e pasmavam da minha liberalidade! Eis-me pobre à beira da sepultura!... O meu orgulho no que deu! Orgulho daquela filha! Mereceu-a um cúmplice de falsi-ficadores! Que destino, que destino!... E, ao cabo de tudo, morrer, não já de saudade dela, mas de vergonha do labéu que o marido lhe pôs! Aqui tem sr. Silveira, uma horrenda catástrofe!... Quem quererá ser pai, contemplando este meu fim de vida, esta agonia obscura, este morrer debaixo de um opróbrio esmagador!... Não fale, não fale! É inconsolável a minha tribulação! Pique, peço-lhe que fique ao meu lado.. Bem vê que nem um só amigo se lembra do homem desamparado dos afagos da fortuna! Esteja por aqui até ao fim, que isto acaba cedo!...
 
 Silveira disse breves palavras tendentes a sossegar o agitado ânimo do velho.
 
@@ -2367,7 +2367,7 @@ Outro advogado, sedento de um triunfo, tão bem agourado e fácil, aceitou a pro
 
 Caetano Alves de Carvalho foi outra vez interrogado à vista das cartas do novo cúmplice. Titubeou a refalsada velhacaria do ricaço. Não sabia como explicar a mudança do nome, depois de ter dito que João Crisóstomo lhe era apenas um devedor e mais nada. O magistrado enleara-o tão engenhosamente que o réu, a cada investida que dava à trama, ficava mais enredado. Afinal, estupidificado pelo susto, disse que entregava os bens ao autor, e que o deixassem. Os circunstantes riram às gargalhadas da beatifica desistência do homem, e espantaram-se de um cair de chofre tão redondo à lama dos criminosos vulgares!
 
-Continuou o processo-crime instaurado contra João Crisóstomo.. 
+Continuou o processo-crime instaurado contra João Crisóstomo..
 No entanto, chegou a carta do genro do doutor Negro, com a ordem das duzentas moedas
 António da Silveira, transportado de alegria, correu a ler a carta ao pai de Albertina, salvando o último período, que o leitor esquecido pode reler no capítulo antecedente.
 
@@ -2405,14 +2405,14 @@ O auditório riu-se; e o réu, arrancando-se à sua letargia, exclamou:
 
 -- Não assino isso!
 
--- Fica, portanto, o dinheiro depositado - tornou o doutor corregedor - até se averiguar quem seja Agostinho José Chaves. Passe o escrivão recibo ao sr. António da  Silveira, que eu assino.
+-- Fica, portanto, o dinheiro depositado - tornou o doutor corregedor - até se averiguar quem seja Agostinho José Chaves. Passe o escrivão recibo ao sr. António da Silveira, que eu assino.
 
 Cumpriu-se.
 
 
 
-##    Capítulo Décimo Oitavo
-    
+# Capítulo Décimo Oitavo
+
 Caetano Alves considerou-se perdido, sem embargo de o reanimarem alguns experientes deste mundo, admoestando-o a que tivesse mais confiança no seu dinheiro e na valiosa actividade dos seus amigos. Dizia-se geralmente que ele, antes de preso, não tinha amigos. Parece que a comiseração lhos deu na cadeia, quando era mais natural perdê-los, se os tivesse. Este fenómeno, precursor de outros que hão-de vir edificar-nos a seu tempo, explicava-o aquela «execrável fome de ouro» condenada por Virgílio: Auri sacra fames. O rico proprietário, quando a indignação pública fazia estampido, era já visitado por pessoas de uma tal qual categoria e preponderância. Destas, alguma, grandemente considerada entre a classe genealógica, saiu de carruagem à porta dos juizes, a oferecer a sua idoneidade em fiança do preso. À imitação deste fidalgo agradecido ao seu credor, outros se ofereceram e empenharam já com o magistrado criminal, já com o cível.
 
 Não obstante, Caetano Alves, depois do lance da carta de João Crisóstomo, esmoreceu.
@@ -2536,8 +2536,8 @@ E expirou.
 
 
 
-##    Capítulo Décimo Nono
-    
+# Capítulo Décimo Nono
+
 António da Silveira, procurador da viúva, desceu ao Porto para tomar conta do mesquinho espólio do doutor Francisco Simões de Alpedrinha. Quando chegou e noticiou a morte do doutor Negro, o senhorio da casa em que ele vivera, sem mais delongas, cobrou sumária sentença e mandado de penhora pela renda atrasada. António assistiu à venda em praça da livraria e mobília, apenas bastantes ao pagamento do aluguer do prédio por dois anos, O transmontano arrematou o piano, os livros de estudo de Albertina, e um resto de seus vestidos desbotados, que desde muito envelheciam escondidos da vista do pai.
 
 Bem que João Crisóstomo não tivesse noticiado sua chegada ao Rio de Janeiro, António da Silveira escreveu-lhe à ventura, narrando os pormenores idas coisas decorridas, enviando-lhe cópias do recibo das duzentas moedas, e da denúncia de Caetano Alves ao corregedor do crime, e cópia também do perdão do doutor Negro moribundo. Receoso do transviamento da carta, reteve os originais para oportuna e seguramente lhos remeter.
@@ -2617,8 +2617,8 @@ A Providência viu as lágrimas dele, assim como agora há-de ver as tuas, Alber
 
 
 
-##    Capítulo Vigésimo
-    
+# Capítulo Vigésimo
+
 É obrigação corrente de quem faz romances evitar que o leitor volte a página em claro, dizendo de si para si que a tem. por supérflua ao enredo do conto. E este cuidado importa que o não desdenhem aqueles romancistas que propriamente se abonam com dizerem que escrevem para pessoas entendidas. Nós, os operários doa jardins do coração, e não seareiros dos campos fertilizadores do espirito, devemos considerar que o nosso ofício é entreter os ócios. das senhoras e dos sujeitos que as igualam em superficialismo de inteligência. Isto não é desfazer na inteligência das damas,: antes significa o desapreço em que estimamos este género de escrita. Presumimos que as senhoras, graduadas virilmente na escala da inteligência, desadoram romances, e gastam seu tempo em leituras sumarentas, de par com as quais esta coisa de folhetins é um lustre de vidrilhos em compita com a perfulgência de brilhantes de alto quilate.
 
 Pois que, por desfortuna, é incomparavelmente maior o número dos espíritos incultos, devemos assentar que para o maior número escrevemos, e dar já a razão deste cabeçalho de capítulo, para se não cuidar que estamos legislando aos arroteadores destas charnecas do romance português.
@@ -2719,8 +2719,8 @@ A Providência dá uns castigos que parecem zombarias!
 
 
 
-##    Capítulo Vigésimo Primeiro
-    
+# Capítulo Vigésimo Primeiro
+
 Assim que a notícia do julgamento chegou ao Rio de Janeiro, com o traslado da sentença enviado por António da Silveira ao patrão que fora do seu amigo, foi logo João Crisóstomo chamado de Havana para exercer o seu cargo em casa do espanhol. Esta agradável nova levantou o infeliz do seu mortal abatimento. Custava-lhe já a suportar a cruz, ainda com o ombro de Albertina lacerado sob o peso dela. Aviventava-o mais o frenesi do ódio que o incentivo do amor: ódio sanguinário ao homem que o perdera, ânsia de espedaçar com suas mãos Caetano Alves. Uma vez, dizia ele, exasperado e raivando contra a justiça divina, que, se tivesse recursos, viria ao Porto, e iria à Relação atravessar a garganta do algoz da sua honra. Albertina aplacava estes delírios com o refrigério das lágrimas, orvalho piedoso de coração amantíssimo, que todos os infernos apaga.
 
 Transferidos ao Rio de Janeiro, melhoraram de vida, porque tinham o anteparo do comerciante, contra os tiros da aleivosia contumaz em assetear João Crisóstomo, sem embargo da absolvição. As cartas do Porto a diversos negociantes do Rio levavam o espanto da sentença e a confirmação do crime dos absoltos. Os créditos do caixeiro continuaram infamados, e a desconsideração do comerciante encruou-se com a impunidade.
@@ -2879,8 +2879,8 @@ Quando saltou em terra, apertou a mulher ao seio, e disse-lhe:
 
 
 
-##    Capítulo Vigésimo Segundo
-    
+# Capítulo Vigésimo Segundo
+
 Carecemos de dar algumas páginas a António da Silveira, personagem secundário desta história; porém digno de o ser de um livro entretecido das suas obscuras virtudes.
 
 Em 1817, quando Comes Freire foi enforcado, e os revolucionários seus cúmplices espingardeados uns, e devorados outros pelas fogueiras, estava em Lisboa António da Silveira, onde seu irmão Alexandre o mandara recolher a pequena herança de um tio cónego da Sé Patriarcal. Apavorou-o o horrente espectáculo da carnificina, e todas as fibras do coração lhas vibrou o ódio à tirania sanguinária. Fez-se em sua alma súbita mudança. O amigo da liberdade da consciência, sem má vontade aos opressores do espírito, ali, naqueles dias nefastos de Lisboa, desfigurou-se cm revolucionário rancoroso, e jurou de si para Deus sacrificar-se até à morte, em defesa dos oprimidos.
@@ -3044,8 +3044,8 @@ Caetano Alves estacou, e pôs as costas contra o alizar da meia porta que abrira
 
 
 
-##    Capítulo Vigésimo Terceiro
-    
+# Capítulo Vigésimo Terceiro
+
 Caminhou vagarosamente João Crisóstomo para Caetano Alves, e disse-lhe:
 
 -- Creio que o sr. Agostinho José Chaves me vê sem óculos, e me ouve sem cometa acústica. Felicito-o da feliz cura de olhos e de ouvidos.
@@ -3197,7 +3197,7 @@ Ergueu-se ela com transporte, e estreitou o marido ao seio, e disse soluçante:
 
 Estas esperanças eram relâmpagos. Assim que ela fitava olhar atento no semblante do marido, cortava-se-lhe o coração, e cedia ao alto gemer da sua inconsolável dor.
 
-O médico observou que a presença de Albertina, a não se comedir em sua aflição,  apressaria a morte do preso.
+O médico observou que a presença de Albertina, a não se comedir em sua aflição, apressaria a morte do preso.
 
 -- E que lucra ele em viver?! - reflectiam as mais condoídas testemunhas do espectáculo.
 
@@ -3276,8 +3276,8 @@ Onde está a medicina daquelas demências?
 
 
 
-##    Capítulo Vigésimo Quarto
-    
+# Capítulo Vigésimo Quarto
+
 No mesmo dia em que António da Silveira recebia do defensor de João Crisóstomo a notícia do repelão que atirara o malfadado à última paragem do seu abismo, foi ele procurar carta ao escritório do último navio chegado do Rio, e encontrou a de João Crisóstomo, escrita da cadeia. Era assim breve e simples:
 
 «Saldei as contas. Agora posso morrer. Caetano Alves deve ter empastada no sangue da cara a denúncia que deu ao corregedor. Como a sociedade, em vez de me vingar, me escreveu na testa o ferrete de ladrão, vinguei-me eu. Se eu não tivesse esta mártir ligada à minha existência, morria feliz. A justiça dos homens já não pode cevar-se no meu sangue. Não se levanta a forca sobre uma sepultura. Morrerei breve. Aqui fica Albertina, aquele anjo que V. Sª amou como irmão; ela aqui está à espera que me enterrem, para ir pedir uma esmola. Se ela chegar à porta, receba-a. Ela é nobre de condição: aceitará a esmola, porque há situações em que o aceitá-la é fidalguia de ânimo... Ouço-lhe os gemidos... Sei que amanhã parte um navio. Não me dá tempo a mais. Adeus, sr. Silveira. Não me ofereço como exemplo à sua vida, que é a de um justo; porém, aos desgraçados que encontrar conte-lhes a minha vida e a minha morte.
@@ -3476,8 +3476,8 @@ Deus sabe quantas privações custou ao coronel aquela generosidade, e a aliment
 
 
 
-#    Conclusão
-    
+# Conclusão
+
 Em 1846, um lavrador de Vairão procurou Albertina no hospital de S. Francisco, e disse-lhe:
 
 -- A senhora é a viúva de João Crisóstomo que Deus haja?
@@ -3555,4 +3555,4 @@ A isto respondeu ele:
 
 Minha filha há-de ser muito desgraçada, ainda mesmo que o homem que ma roubou venha a ser seu marido, e a felicidade mentirosa lhes dê a efémera embriaguez do crime satisfeito. Eu morrerei, sem a ter visto no último degrau da miséria; mas você viverá para lembrar-se das derradeiras palavras proferidas pelo velho que chora em suas mãos.
 
-#FIM
+# FIM
