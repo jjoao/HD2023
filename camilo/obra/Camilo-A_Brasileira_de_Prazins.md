@@ -476,7 +476,7 @@ pontos p'ra remediar. Dê cá as calças, e não se aflija...
 
  E meteu-se em casa como quem receava contra-réplica menos suja e mais dura.
 
-#                                                        III
+# III
 
 O Zeferino era afilhado do morgado de Barrimau, um major de cavalaria, convencionado em Evora Monte,
 miguelista intransigente, mas cordato. Vivia no seu escalavrado solar com um irmão egresso beneditino, Frei

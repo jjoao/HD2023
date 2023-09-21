@@ -8,3 +8,13 @@
 
    .... python teste.py
    .... python 
+
+# Aula2
+
+- instala vscode
+- istalar python
+- abrir terminal
+
+## Vscode
+
+- 
