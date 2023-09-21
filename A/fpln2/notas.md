@@ -1,8 +1,8 @@
 # Editores de texto / IDE
 
- -  vscode   (invocar como *code*)
- -  sublime
- -  nodepad++
+-  vscode   (invocar como *code*)
+-  sublime
+-  nodepad++
 
 # Python
 
@@ -15,6 +15,11 @@
 - istalar python
 - abrir terminal
 
+TPC:
+
+- criar conta no GitHub
+- 
+
 ## Vscode
 
-- 
+- a
