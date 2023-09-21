@@ -715,7 +715,7 @@ recurvas no punho azevrado da espada, ressuscite, ao ulular da trombeta, na ress
 
 Ponto é que a Rússia se mova – como dizia o frade de Barrimau.
 
-#                                                         IV
+# IV
 
  Do Alto Minho continuavam as noticias alegremente agitadoras. O Cristóvão Bezerra, ex-capitão-mor de
 Santa Marta de Bouro, escreveu ao seu parente de Barrimau. Dizia-lhe que constava que o Sr. D. Miguel estava no
