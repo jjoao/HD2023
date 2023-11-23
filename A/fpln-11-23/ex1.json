@@ -1,0 +1,6 @@
+[ 
+		{ "name":"rui", "profissão": "pedreiro", "idade": 34 },
+		{ "name":"eva", "profissão": "sapateiro", "idade": 24 },
+		{ "name":"ana", "profissão": "pedreiro", "idade": 14 },
+		{ "name":"isa", "profissão": "astronauta", "idade": 44 }
+]
